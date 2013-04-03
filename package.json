@@ -1,0 +1,8 @@
+{
+  "name": "identical",
+  "version": "0.1.0",
+  "description": "",
+  "main": "identical.js",
+  "author": "Tiago Henriques",
+  "license": "MIT"
+}
