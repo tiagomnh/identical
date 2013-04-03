@@ -1,6 +1,13 @@
 # Identical
 
-Identical is a simple node module that translates between numeric ids and alphanumeric ids using a user definable alphabet.
+Identical is a simple node module that translates between numeric ids and alphanumeric ids using a user definable alphabet (a string representing the conversion table). 
+
+Why? Because:
+- Shorter URLs == Cooler URLs;
+- Your row-ids are shy;
+- Base36 is too mainstream for you.
+
+## Usage
 
 ```js
 var Identical = require('identical');
