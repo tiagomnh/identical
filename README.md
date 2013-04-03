@@ -1,6 +1,6 @@
 # Identical
 
-Identical is a simple node module that converts numeric ids to string ids using the provided alphabet.
+Identical is a simple node module that translates between numeric ids and alphanumeric ids using a user definable alphabet.
 
 ```js
 var Identical = require('identical');
