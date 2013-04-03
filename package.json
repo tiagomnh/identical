@@ -1,7 +1,7 @@
 {
   "name": "identical",
   "version": "0.1.0",
-  "description": "",
+  "description": "Translates between numeric and alphanumeric ids",
   "main": "identical.js",
   "author": "Tiago Henriques",
   "license": "MIT"
