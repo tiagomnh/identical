@@ -4,5 +4,9 @@
   "description": "Translates between numeric and alphanumeric ids",
   "main": "identical.js",
   "author": "Tiago Henriques",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagomnh/identical.git"
+  }
 }
